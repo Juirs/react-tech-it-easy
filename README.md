@@ -196,3 +196,5 @@ hebben we namelijk _State_ voor nodig. Daarom log je de gesorteerde tv's in de c
 ```javascript
 conditie && <element dat weergegeven moet worden als TRUE>
 ```
+#   r e a c t - t e c h - i t - e a s y  
+ 
