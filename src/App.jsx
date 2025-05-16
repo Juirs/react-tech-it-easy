@@ -59,7 +59,7 @@ function App() {
             <h2>Best verkochte tv</h2>
             <div className="all-tvs-card best-selling-tv-card">
                 <div className="all-tvs-card-image">
-                    <img src={bestSellingTv.sourceImg} alt={generateTvName(bestSellingTv)}/>
+                    <img src={generateItemImage(bestSellingTv)} alt={generateTvName(bestSellingTv)}/>
                 </div>
 
                 <div className="all-tvs-card-info">
